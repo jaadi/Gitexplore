@@ -3,7 +3,7 @@ package pac1;
 public class B {
 	
 	public B(){
-		sayHallo();
+		sayHallo(); //xx
 	}
 
 	private void sayHallo() {
